@@ -3,13 +3,17 @@
 ![!\[Alt text\](5Animals/assents/image.png)](17Flowers/assents/image.png)
 
 
-## How to install
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Rose.webp" alt="Rose" width="25" height="25" />How to install
+
 
 ```
 pip install requirements.txt
 ```
 
-## How to train
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Blossom.webp" alt="Blossom" width="25" height="25" /> How to train
+
+
+
 
 1. Lass and accuracy  plot of the project related to 5 animals
 
@@ -42,7 +46,9 @@ pip install requirements.txt
 ![Alt text](17Flowers/assents/output2.png)
 
 
-## How to run
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cherry%20Blossom.webp" alt="Cherry Blossom" width="25" height="25" /> How to run
+
+
 
 I have saved the files with the H5 extension in the [weights](https://drive.google.com/drive/folders/12bdbZoNq5lRNb9XbeVFOUfainYlblwzP?usp=drive_link) folder, you can enjoy them by running them quickly.
 
